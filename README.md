@@ -8,10 +8,18 @@ First create a alchemy table!
 
 Then make a alchemic jar
 
-![AlchemyTable](images/AlchemicalJarRecipe.png)
+![AlchemyJar](images/AlchemicalJarRecipe.png)
 
 Now create a processor
 
-![AlchemyTable](images/ProcessorRecipe.png)
+![Processor](images/ProcessorRecipe.png)
+
+An alchemy table needs 3 things:
+- A Jar/Concoction
+- A Base Ingridient
+- A Bucket Of Elementium
+- 
+To get elementium we need to process a water bucket with a fermented spider eye
+![Processing](images/ProcessElementium.png)
 
 
