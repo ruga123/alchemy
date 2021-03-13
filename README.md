@@ -2,6 +2,10 @@
 
 Create potions dynamically using alchemy construct!
 
-First create a alchemy table
+First create a alchemy table!
 
-![Screenshot](images/AlchemyTableRecipe.png)
+![AlchemyTable](images/AlchemyTableRecipe.png)
+
+Then make a alchemic jar
+
+![AlchemyTable](images/AlchemicalJarRecipe.png)
