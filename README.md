@@ -9,3 +9,9 @@ First create a alchemy table!
 Then make a alchemic jar
 
 ![AlchemyTable](images/AlchemicalJarRecipe.png)
+
+Now create a processor
+
+![AlchemyTable](images/ProcessorRecipe.png)
+
+
