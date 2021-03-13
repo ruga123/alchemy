@@ -18,7 +18,7 @@ An alchemy table needs 3 things:
 - A Jar/Concoction
 - A Base Ingridient
 - A Bucket Of Elementium
-- 
+
 To get elementium we need to process a water bucket with a fermented spider eye
 ![Processing](images/ProcessElementium.png)
 
