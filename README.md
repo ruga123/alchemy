@@ -44,6 +44,9 @@ Every potion needs a base ingridient:
 - Slow Falling                            = Phantom Membrane
 - Glowing                                 = Glowstone **Block**
 - Jeweled ( Increases all effect length ) = Diamond
+
+![Processing](images/AlchemyProcess.png)
+
 You can put an alchemical concoction back into the alchemical table to get more effects or a stronger one.
 Theres a limit of level 3 for most effects.
 
