@@ -17,9 +17,9 @@ Now create a processor
 An alchemy table needs 3 things:
 - A Jar/Concoction
 - A Base Ingridient
-- A Bucket Of Elementium
+- A Bucket Of solution
 
-To get elementium we need to process a water bucket with a fermented spider eye
+To get solution we need to process a water bucket with a fermented spider eye
 ![Processing](images/ProcessElementium.png)
 
 Every potion needs a base ingridient:
