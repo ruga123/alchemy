@@ -44,9 +44,11 @@ Every potion needs a base ingridient:
 - Luck                                    = Emerald
 - Bad Luck                                = Jewel Of Misfortune ( Process emerald and fermented spider eye )
 - Levitation                              = Shulker Shell
+- Combustion                              = Magmatic Mix ( Process magma cream and blaze powder )
 - Slow Falling                            = Phantom Membrane
 - Glowing                                 = Glowstone **Block**
 - Jeweled ( Increases all effect length ) = Diamond
+- Splash Potions 			  = Gunpowder
 
 ![Processing](images/AlchemyProcess.png)
 
